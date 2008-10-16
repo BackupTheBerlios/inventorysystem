@@ -1,0 +1,39 @@
+# Diese viminfo-Datei wurde von Vim 7.0 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+""-	CHAR	0
+	#
+
+# Datei-Marken:
+'0  72  0  ~/.bashrc
+
+# Geschichte (neueste zuerst):
+-'  72  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/.bashrc
+	"	72	0
+	.	65	0
+	+	63	0
+	+	64	0
+	+	65	0

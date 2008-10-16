@@ -1,0 +1,44 @@
+IngramMicro
+www.ingrammicro.de
+
+TechData
+www.techdata.de
+Kundennummer: 554135
+User-Name: 554135
+Passwort: standard
+
+Wave
+www.wave-computer.de
+Kundennummer: 23583918
+Passwort: standard
+
+bCom
+www.bcom.de
+Kundennummer: 20084457
+Passwort: standard
+
+Mindfactory
+www.mindfactory.de
+Emailadresse: info@at-store.de
+Passwort: standard
+
+cos
+www.cosag.de
+Kundennummer: COS169783(001 bzw 002 hintendran)
+Passwort: standard
+
+Actebis
+www.actebis.com
+Kundennummer: 10486946
+Benutzer ID: 365630
+Passwort: standard
+
+Data World (MAC)
+www.dataworld.de
+Benutzername: 21548
+Passwort: D-99192
+
+api GMBH
+www.api.de --> Express-Login
+Kundennummer: 128051
+Passwort: 99192
